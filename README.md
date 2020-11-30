@@ -1,5 +1,7 @@
 ![view project images here](https://github.com/prathusingal/Project-Manager-Web-App/tree/main/Project%20Manager%20Web%20App/Images)
 
+[![Project execution Video](https://github.com/prathusingal/Project-Manager-Web-App/blob/main/Project%20Execution%20video.gif)]
+
 This is Django application made for Project Managment.
 
 Install Backend Dependencies:
